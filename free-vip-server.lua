@@ -1,6 +1,6 @@
 --[[Free VIP Server Script]]--
 --[[Made by Sam_Lord]]--
---[[Hacked together from code by SIN of the V3RMILLION FORM]]--
+--[[Hacked together from code by SIN of the V3RMILLION FORUM]]--
 
 id = 10725312 --[[Insert ID of Place HERE]]--
 
